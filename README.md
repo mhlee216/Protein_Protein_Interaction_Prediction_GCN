@@ -17,6 +17,6 @@ https://github.com/baranwa2/Struct2Graph/blob/master/interactions_data.txt
 - Accuracy : 98 %
 
 
-#### Create directories first
+#### Create Directories First
 - ./data/graph
 - ./data/pdb
