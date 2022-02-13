@@ -16,7 +16,3 @@ https://github.com/baranwa2/Struct2Graph/blob/master/interactions_data.txt
 <img src="https://github.com/mhlee216/Protein_Protein_Interaction_Prediction_GCN/blob/main/Result.jpg">
 - Accuracy : 98 %
 
-
-#### Create Directories First
-- ./data/graph
-- ./data/pdb
