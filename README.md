@@ -1,6 +1,6 @@
 ### Classification of Protein-Protein Interaction Using Graph Convolutional Networks
 
-- PyTorch
+- PyTorch (1.8.0+cu111)
 - PyTorch Geometric
 - Biotite
 
